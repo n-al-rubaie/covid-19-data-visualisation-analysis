@@ -12,6 +12,7 @@ Through a series of visualisations, the analysis explores:
 The project integrates data from **WHO COVID-19 global statistics** and **vaccination datasets**, ensuring reliability and relevance. In addition, the **Tableau dashboard** provides an interactive overview that enhances data exploration and enables meaningful comparisons between regions.
 
 ## Tableau Dashboard - COVID-19
+Open here: https://shorturl.at/xleiO
 <img width="1100" height="495" alt="Tableau Dashboard - COVID-19" src="https://github.com/user-attachments/assets/18b1c26c-e283-4e2b-ae60-ba307e6cc45c" />
 
 
